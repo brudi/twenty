@@ -1,0 +1,12 @@
+{
+  "name": "twenty-website",
+  "version": "0.2.2",
+  "private": true,
+  "scripts": {
+    "nx": "NX_DEFAULT_PROJECT=twenty-website node ../../node_modules/nx/bin/nx.js",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
